@@ -28,11 +28,17 @@ All dashboards are saved as `.pbit` (Power BI template) files. You can open them
 
 ---
 
-## 🔧 How to Use
+## 📂 How to View These Dashboards
 
-1. Download any `.pbit` file
-2. Open in Power BI Desktop
-3. Load your own dataset or use the original data (if embedded)
+The `.pbit` files in this repository are Power BI Template files.
+
+To open and view them:
+
+1. Download the `.pbit` file you’re interested in.
+2. Open the file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. If prompted, connect to the required dataset or proceed with the embedded data.
+
+> 📌 Note: Power BI Desktop is free to use and available for Windows.
 
 ---
 
