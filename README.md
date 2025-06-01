@@ -1,1 +1,47 @@
-# powerBI-data-visualizations
+# Power BI Data Visualization Projects
+
+This repository contains Power BI dashboards (.pbit files) showcasing data analysis and visualization skills. Each project covers a real-world dataset and focuses on extracting insights through visual storytelling.
+
+## 📊 Projects Included
+
+### 1. Blinkit 10-Minute Delivery Sales Analysis
+- Objective: Analyze sales trends, delivery times, and customer behavior for Blinkit, a 10-minute delivery app.
+- Insights: Peak order times, top-selling items, delivery delays, and customer satisfaction.
+
+### 2. Netflix Data Analysis
+- Objective: Explore content types, viewer preferences, and genre trends on Netflix.
+- Insights: Most popular genres, content release patterns, and country-wise content distribution.
+
+### 3. NASA Near-Earth Objects Analysis
+- Objective: Analyze NASA’s Near-Earth Object (NEO) data.
+- Insights: Frequency, size, and velocity of asteroids; hazard classification trends.
+
+### 4. Electric Vehicle (EV) Trends Analysis
+- Objective: Study the growth of electric vehicle adoption and charging infrastructure.
+- Insights: EV registration growth, manufacturer comparison, regional adoption rates.
+
+---
+
+## 📁 File Format
+
+All dashboards are saved as `.pbit` (Power BI template) files. You can open them using Microsoft Power BI Desktop.
+
+---
+
+## 🔧 How to Use
+
+1. Download any `.pbit` file
+2. Open in Power BI Desktop
+3. Load your own dataset or use the original data (if embedded)
+
+---
+
+## 👨‍💻 Author
+
+**Preetham Saxon**  
+B.Tech CSE Student | Data Enthusiast | Power BI Developer  
+📫 [LinkedIn]www.linkedin.com/in/g-preetham-saxon-976b26235 | [GitHub](https://github.com/)
+
+---
+
+⭐ Star this repo if you find it useful!
