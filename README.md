@@ -19,7 +19,11 @@ This repository contains Power BI dashboards (.pbit files) showcasing data analy
 ### 4. Electric Vehicle (EV) Trends Analysis
 - Objective: Study the growth of electric vehicle adoption and charging infrastructure.
 - Insights: EV registration growth, manufacturer comparison, regional adoption rates.
-
+  
+### 5. ICC World Cup Visualization  
+- Objective: Analyze ICC World Cup data to explore team performance, player achievements, and match statistics.  
+- Insights: Team win/loss ratios, top players' statistics, and trends across tournaments.  
+- Files: Includes `.pbit` template file and supporting screenshots for the dashboard.
 ---
 
 ## 📁 File Format
