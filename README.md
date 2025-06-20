@@ -35,6 +35,49 @@ This repository contains Power BI dashboards (.pbit files) showcasing data analy
 - Files: Includes `.pbit` template file and supporting screenshots for the dashboard.
 - **Preview**:  
      ![ICC WORLD CUP Dashboard Overview](Screenshots/Screenshot-2025-06-14-213201.png)
+
+### 6. 🚀 Urban Company Sales Analysis Dashboard
+📊 Overview
+This project showcases a comprehensive Power BI dashboard analyzing Urban Company’s sales data. The dashboard combines multiple visualizations to uncover key insights and provide actionable intelligence for business decisions.
+
+🔍 Features of the Dashboard
+🌍 Country-wise Sales Analysis:
+
+A map visualization displaying sales performance across different countries and sub-categories.
+
+Helps identify top-performing regions and potential growth markets.
+
+📈 Profit vs. Sales Trends:
+
+A scatter plot comparing profit and sales across categories like Furniture, Office Supplies, and Technology.
+
+Identifies areas with low profitability to target for optimization.
+
+🛠️ Sub-Category Insights:
+
+A pie chart and bar graph analyzing the sales and discount share across sub-categories.
+
+Highlights key contributors and trends in sales volumes and discount strategies.
+
+📅 Monthly Sales Trend:
+
+A line chart tracking sales over time, showing peaks and declines to understand seasonal trends.
+
+📋 Detailed Data Table:
+
+A table containing granular data about customers, their locations, and corresponding sales.
+
+🔢 Key Metrics:
+
+Quick summary of total sales, profit, and quantity sold for an at-a-glance performance review.
+
+🛠️ Technologies Used
+Power BI: For data visualization and dashboard creation.
+
+Excel: For data cleaning and preprocessing.
+       https://1drv.ms/x/c/6c5eff39deee5816/EVVUmlTx5phCitfXaXTkFxcBa2zC-OdyD78tt8IX3NH01w?e=DsNZiu
+
+Data Source: Simulated Urban Company sales data.
 ---
 
 ## 📁 File Format
