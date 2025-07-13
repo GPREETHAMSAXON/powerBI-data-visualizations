@@ -79,27 +79,6 @@ Excel: For data cleaning and preprocessing.
 
 Data Source: Simulated Urban Company sales data.
 ---
-
-## 📁 File Format
-
-All dashboards are saved as `.pbit` (Power BI template) files. You can open them using Microsoft Power BI Desktop.
-
----
-
-## 📂 How to View These Dashboards
-
-The `.pbit` files in this repository are Power BI Template files.
-
-To open and view them:
-
-1. Download the `.pbit` file you’re interested in.
-2. Open the file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. If prompted, connect to the required dataset or proceed with the embedded data.
-
-> 📌 Note: Power BI Desktop is free to use and available for Windows.
-
-
-
 # 🍽️ Swiggy Sales Dashboard – Power BI Project
 
 Welcome to the **Swiggy Sales Dashboard** – an end-to-end Power BI project designed to simulate real-world data analytics for online food delivery platforms. This project aims to help businesses derive actionable insights, understand user behavior, and optimize performance using data-driven decisions.
@@ -169,6 +148,24 @@ In this project, I built a comprehensive Swiggy-themed dashboard using Power BI.
 └── 📄 README.md # This file
 
 ---
+
+## 📁 File Format
+
+All dashboards are saved as `.pbit` (Power BI template) files. You can open them using Microsoft Power BI Desktop.
+
+---
+
+## 📂 How to View These Dashboards
+
+The `.pbit` files in this repository are Power BI Template files.
+
+To open and view them:
+
+1. Download the `.pbit` file you’re interested in.
+2. Open the file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. If prompted, connect to the required dataset or proceed with the embedded data.
+
+> 📌 Note: Power BI Desktop is free to use and available for Windows.
 
 ## 👨‍💻 Author
 
