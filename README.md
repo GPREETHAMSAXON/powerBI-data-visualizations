@@ -98,6 +98,76 @@ To open and view them:
 
 > 📌 Note: Power BI Desktop is free to use and available for Windows.
 
+
+
+# 🍽️ Swiggy Sales Dashboard – Power BI Project
+
+Welcome to the **Swiggy Sales Dashboard** – an end-to-end Power BI project designed to simulate real-world data analytics for online food delivery platforms. This project aims to help businesses derive actionable insights, understand user behavior, and optimize performance using data-driven decisions.
+
+---
+
+## 🚀 Project Overview
+
+In this project, I built a comprehensive Swiggy-themed dashboard using Power BI. Over 72+ hours of hands-on work went into transforming raw data into an insightful and interactive analytical report. I learned and applied techniques in data cleaning, modeling, visualization, and business storytelling.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Power BI Desktop** – for dashboard creation  
+- **Power Query Editor** – for data transformation  
+- **DAX (Data Analysis Expressions)** – for custom calculations and KPIs  
+- **Excel** – as the primary data source  
+
+---
+
+## 📊 Dashboard Pages Overview (Total: 4 Pages)
+
+### 1️⃣ **Main Overview**
+- Total Users, Orders, Sales, and Ratings
+- Sales trends over years
+- Top cities and customers by revenue
+- Avg Price: Veg, Non-Veg, Others
+
+### 2️⃣ **User Insights**
+- Gender and Age distribution
+- Marital status & occupation-based sales
+- Top 10% customer contribution
+- Sales comparison: Current vs Previous Year
+
+### 3️⃣ **City Overview**
+- Sales and orders by city
+- Ratings by city
+- City-wise user engagement
+- Geographic map visualizations
+
+### 4️⃣ **Restaurant & Cuisine Analytics**
+- Total restaurants by city
+- Veg vs Non-Veg availability
+- Top cuisines by restaurant and price
+- Top-rated restaurant brands
+
+---
+
+## 🔍 Key Learning Outcomes
+
+- Data preparation using **Power Query**
+- Handling null/missing values effectively
+- Writing advanced **DAX** for KPIs and filtering
+- Building layered reports with interactivity
+- Designing visually appealing and intuitive dashboards
+- Developing patience, attention to detail, and iterative improvement mindset
+
+---
+
+## 📁 Repository Structure
+
+📁 Swiggy-Sales-Dashboard/
+├── 📄 Swiggy_Sales_Dashboard.pbix # Main Power BI file
+├── 📄 Dataset.xlsx # Source dataset
+├── 📄 Swiggy Power BI.pdf # Dashboard screenshots (preview)
+└── 📄 README.md # This file
+
 ---
 
 ## 👨‍💻 Author
