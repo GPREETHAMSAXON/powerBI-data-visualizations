@@ -41,49 +41,38 @@ This repository contains Power BI dashboards (.pbit files) showcasing data analy
 This project showcases a comprehensive Power BI dashboard analyzing Urban Company’s sales data. The dashboard combines multiple visualizations to uncover key insights and provide actionable intelligence for business decisions.
 
 🔍 Features of the Dashboard
-🌍 Country-wise Sales Analysis:
+### 🌍 Country-wise Sales Analysis:
+### A map visualization displaying sales performance across different countries and sub-categories.
+   Helps identify top-performing regions and potential growth markets.
+   📈 Profit vs. Sales Trends:
 
-A map visualization displaying sales performance across different countries and sub-categories.
+### A scatter plot comparing profit and sales across categories like Furniture, Office Supplies, and Technology.
+   Identifies areas with low profitability to target for optimization.
 
-Helps identify top-performing regions and potential growth markets.
+### 🛠️ Sub-Category Insights:
+   A pie chart and bar graph analyzing the sales and discount share across sub-categories.
+   Highlights key contributors and trends in sales volumes and discount strategies.
 
-📈 Profit vs. Sales Trends:
+### 📅 Monthly Sales Trend:
+   A line chart tracking sales over time, showing peaks and declines to understand seasonal trends.
+   
+### 📋 Detailed Data Table:
+   A table containing granular data about customers, their locations, and corresponding sales.
+   
+### 🔢 Key Metrics:
+   Quick summary of total sales, profit, and quantity sold for an at-a-glance performance review.
 
-A scatter plot comparing profit and sales across categories like Furniture, Office Supplies, and Technology.
+### 🛠️ Technologies Used
+   Power BI: For data visualization and dashboard creation.
 
-Identifies areas with low profitability to target for optimization.
-
-🛠️ Sub-Category Insights:
-
-A pie chart and bar graph analyzing the sales and discount share across sub-categories.
-
-Highlights key contributors and trends in sales volumes and discount strategies.
-
-📅 Monthly Sales Trend:
-
-A line chart tracking sales over time, showing peaks and declines to understand seasonal trends.
-
-📋 Detailed Data Table:
-
-A table containing granular data about customers, their locations, and corresponding sales.
-
-🔢 Key Metrics:
-
-Quick summary of total sales, profit, and quantity sold for an at-a-glance performance review.
-
-🛠️ Technologies Used
-Power BI: For data visualization and dashboard creation.
-
-Excel: For data cleaning and preprocessing.
+### Excel: For data cleaning and preprocessing.
        https://1drv.ms/x/c/6c5eff39deee5816/EVVUmlTx5phCitfXaXTkFxcBa2zC-OdyD78tt8IX3NH01w?e=DsNZiu
 
 Data Source: Simulated Urban Company sales data.
 ---
 # 🍽️ Swiggy Sales Dashboard – Power BI Project
-
-Welcome to the **Swiggy Sales Dashboard** – an end-to-end Power BI project designed to simulate real-world data analytics for online food delivery platforms. This project aims to help businesses derive actionable insights, understand user behavior, and optimize performance using data-driven decisions.
-
----
+   Welcome to the **Swiggy Sales Dashboard** – an end-to-end Power BI project designed to simulate real-world data analytics for online food delivery platforms. This project aims to help businesses derive
+   actionable insights, understand user behavior, and optimize performance using data-driven decisions.
 
 ## 🚀 Project Overview
 
@@ -147,7 +136,76 @@ In this project, I built a comprehensive Swiggy-themed dashboard using Power BI.
 ├── 📄 Swiggy Power BI.pdf # Dashboard screenshots (preview)
 └── 📄 README.md # This file
 
+
+
+# 🌍 Real-Time Disaster Analysis Dashboard – Power BI Project
+
+This project presents a comprehensive **Power BI dashboard** that analyzes the **impact of global disasters** over time across different regions and disaster types. From floods and droughts to epidemics and earthquakes, this dashboard offers insights that can aid policymakers, researchers, and disaster response teams in better understanding patterns and preparing for future risks.
+
 ---
+
+## 📌 Project Objective
+
+The goal of this project was to visualize and analyze disaster data from multiple dimensions including:
+
+- **Disaster Type**
+- **Geographic Region**
+- **Temporal Trends**
+- **Total Damage and Deaths**
+- **Distribution by Country and Continent**
+
+This analysis helps to identify **disaster-prone regions**, **historical damage trends**, and **common causes** of high-impact events.
+
+---
+
+## 🧰 Tools & Technologies
+
+- **Power BI Desktop** – for building the dashboard  
+- **Power Query** – for data cleansing and transformation  
+- **DAX** – for creating calculated columns and custom measures  
+- **Geospatial Visuals** – for mapping regions and country-wise impacts
+
+---
+
+## 📊 Dashboard Highlights
+
+### 🔹 Page 1: Global View by Country
+- Distribution of different disaster types across countries
+- World map visualizing death tolls and economic damage
+- Interactive slicers for filtering by disaster type and region
+
+### 🔹 Page 2: Disaster Hotspots by Region
+- Comparison of deaths and economic loss across continents
+- Visual breakdown of high-impact zones
+
+### 🔹 Page 3: Trend Analysis Over Time
+- Year-wise disaster occurrence and damage cost trends
+- Timeline visualization showing peaks in natural disaster impact
+
+### 🔹 Page 4: Impact Distribution and Categories
+- Region-wise impact distribution by disaster type
+- Breakdown of disaster categories and associated causes
+- Top contributing factors to extreme damage
+
+---
+
+## 🔍 Insights & Learnings
+
+- Use of **Power BI geospatial visuals** to map real-world data
+- Advanced **data modeling using DAX**
+- Designing **multi-page narratives** for thematic exploration
+- Trend spotting through historical data (1990s–2020s)
+- Realization of **global climate vulnerability** zones
+
+---
+
+## 📁 Repository Structure
+
+📁 Real-Time-Disaster-Analysis/
+├── 📄 Disaster_Analysis_Dashboard.pbix # Power BI dashboard file
+├── 📄 Dataset.xlsx # Source data used
+├── 📄 Real Time Disaster Analysis.pdf # Dashboard preview (all pages)
+└── 📄 README.md # Project documentation
 
 ## 📁 File Format
 
